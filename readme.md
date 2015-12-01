@@ -1,5 +1,5 @@
 ## Laravel-CRUD
-App laravel CRUD first steps with this framework php
+App developed with Laravel, my first steps with this framework php
 
 ## Official Documentation
 
