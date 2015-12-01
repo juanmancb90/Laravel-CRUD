@@ -63,7 +63,7 @@ return [
             'prefix'    => '',
             'strict'    => false,
         ],
-
+        //config db postgres
         'pgsql' => [
             'driver'   => 'pgsql',
             'host'     => env('DB_HOST', 'localhost'),
